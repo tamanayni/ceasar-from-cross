@@ -36,7 +36,7 @@ paginate: 8
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://weibo.com/3711275087 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: https://weibo.com/p/1005053711275087/home?from=page_100505&mod=TAB#place #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: none
